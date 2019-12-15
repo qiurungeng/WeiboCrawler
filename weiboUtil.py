@@ -250,7 +250,7 @@ if __name__ == '__main__':
     # weibo_old.db.addFollowFromList(uid_list)
 
     # weibo_new=WeiboUtil()
-    # id_new=weibo_new.login('00601123581465','asdasdasd')
+    # id_new=weibo_new.login('','')
     # print('账号:' + id_new + '已登录')
     # follow_list=weibo_new.db.getUnfollowList()
     # weibo_new.follow(follow_list)
